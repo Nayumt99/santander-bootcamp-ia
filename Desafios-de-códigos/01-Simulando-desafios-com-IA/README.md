@@ -12,11 +12,11 @@ Este script em Python realiza uma análise básica de sentimento em texto inseri
 
 ## Palavras-Chave
 
-Palavras Positivas: "bom", "boa", "ótimo", "excelente", "maravilhoso", "gostei", "incrível"
+* Palavras Positivas: "bom", "boa", "ótimo", "excelente", "maravilhoso", "gostei", "incrível"
 
-Palavras Negativas: "ruim", "péssimo", "horrível", "terrível", "odeio"
+* Palavras Negativas: "ruim", "péssimo", "horrível", "terrível", "odeio"
 
-Palavras Neutras: "mas", "deixou", "apesar", "embora"
+* Palavras Neutras: "mas", "deixou", "apesar", "embora"
 
 ## Uso
 

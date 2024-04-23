@@ -37,12 +37,12 @@ Você pode expandir as listas de palavras positivas, negativas e neutras para me
 
 ## Possíveis Futuras Melhorias
 
-Aprimoramento do Vocabulário: Expandir as listas de palavras positivas, negativas e neutras para incluir uma variedade mais ampla de termos, melhorando assim a precisão da análise de sentimento.
+* Aprimoramento do Vocabulário: Expandir as listas de palavras positivas, negativas e neutras para incluir uma variedade mais ampla de termos, melhorando assim a precisão da análise de sentimento.
 
-Utilização de Modelos de Aprendizado de Máquina: Implementar algoritmos de aprendizado de máquina, como classificadores de sentimento baseados em modelos de linguagem pré-treinados, para uma análise mais sofisticada e contextualizada.
+* Utilização de Modelos de Aprendizado de Máquina: Implementar algoritmos de aprendizado de máquina, como classificadores de sentimento baseados em modelos de linguagem pré-treinados, para uma análise mais sofisticada e contextualizada.
 
-Consideração de Contexto: Desenvolver métodos para considerar o contexto em que as palavras são usadas, levando em conta a estrutura gramatical e o significado das frases para uma análise mais precisa.
+* Consideração de Contexto: Desenvolver métodos para considerar o contexto em que as palavras são usadas, levando em conta a estrutura gramatical e o significado das frases para uma análise mais precisa.
 
-Interface Gráfica do Usuário (GUI): Criar uma interface gráfica interativa para tornar a entrada de texto mais amigável e visualizar os resultados da análise de sentimento de forma mais intuitiva.
+* Interface Gráfica do Usuário (GUI): Criar uma interface gráfica interativa para tornar a entrada de texto mais amigável e visualizar os resultados da análise de sentimento de forma mais intuitiva.
 
-Suporte a Múltiplos Idiomas: Expandir o script para suportar análise de sentimento em diferentes idiomas, adaptando as listas de palavras-chave e regras gramaticais conforme necessário.
+* Suporte a Múltiplos Idiomas: Expandir o script para suportar análise de sentimento em diferentes idiomas, adaptando as listas de palavras-chave e regras gramaticais conforme necessário.

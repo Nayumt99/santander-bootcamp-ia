@@ -4,11 +4,11 @@ Este script em Python realiza uma análise básica de sentimento em texto inseri
 
 ## Como Funciona
 
-Texto de Entrada: O usuário fornece um comentário ou declaração em texto.
-Tokenização: O texto de entrada é tokenizado em palavras individuais usando expressões regulares para remover pontuações e converter todas as palavras para minúsculas.
-Classificação de Sentimento: O script contém listas predefinidas de palavras positivas, negativas e neutras. Ele conta as ocorrências de palavras positivas, negativas e neutras no texto de entrada.
-Tomada de Decisão: Com base nas contagens de palavras positivas, negativas e neutras, o script determina o sentimento geral.
-Saída: O script imprime o resultado da análise de sentimento: se o texto de entrada é classificado como positivo, negativo ou neutro.
+1. Texto de Entrada: O usuário fornece um comentário ou declaração em texto.
+2. Tokenização: O texto de entrada é tokenizado em palavras individuais usando expressões regulares para remover pontuações e converter todas as palavras para minúsculas.
+3. Classificação de Sentimento: O script contém listas predefinidas de palavras positivas, negativas e neutras. Ele conta as ocorrências de palavras positivas, negativas e neutras no texto de entrada.
+4. Tomada de Decisão: Com base nas contagens de palavras positivas, negativas e neutras, o script determina o sentimento geral.
+5. Saída: O script imprime o resultado da análise de sentimento: se o texto de entrada é classificado como positivo, negativo ou neutro.
 
 ## Palavras-Chave
 

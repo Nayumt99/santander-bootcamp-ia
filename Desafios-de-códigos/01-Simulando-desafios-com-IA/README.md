@@ -13,7 +13,9 @@ Saída: O script imprime o resultado da análise de sentimento: se o texto de en
 ## Palavras-Chave
 
 Palavras Positivas: "bom", "boa", "ótimo", "excelente", "maravilhoso", "gostei", "incrível"
+
 Palavras Negativas: "ruim", "péssimo", "horrível", "terrível", "odeio"
+
 Palavras Neutras: "mas", "deixou", "apesar", "embora"
 
 ## Uso

@@ -12,8 +12,13 @@ O objetivo deste curso é fornecer aos desenvolvedores uma compreensão sólida 
 ## Confira a grade completa:
 
 . Princípios de Desenvolvimento de Software Colaborativo;
+
 . Introdução a Engenheraria de Prompts com ChatGPT;
+
 . Transformando Prompts em Soluções Reais;
+
 . Desvendando as IAs Presentes no Nosso Dia a Dia;
+
 . A Teoria Por Trás das IAs;
+
 . Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades.

@@ -22,12 +22,12 @@ Python 3.x
 
 ## Como Executar
 
-1. Clone o repositório ou faça o download do arquivo Sugerir-compra-inteligente.py.
+1. Clone o repositório ou faça o download do arquivo Sugestao-compra-inteligente.py.
 2. Abra um terminal.
-3. Navegue até o diretório onde o arquivo sugerir_cogumelos.py está localizado.
+3. Navegue até o diretório onde o arquivo Sugestao-compra-inteligente.py está localizado.
 4. Execute o seguinte comando:
 ````
-python Sugerir-compra-inteligente.py
+python Sugestao-compra-inteligente.py
 ````
 
 5.Siga as instruções exibidas no terminal para fornecer o nome do cogumelo desejado.

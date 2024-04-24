@@ -3,7 +3,7 @@
 Este é um repositório do curso abrangente oferecido pelo Santander junto com a DIO, projetado para desenvolvedores interessados em aprender os fundamentos da Inteligência Artificial (IA) e sua aplicação prática em diversos domínios.
 
 
-![image](https://github.com/Nayumt99/santander-bootcamp-ia/assets/68863624/54877151-e361-45e2-9fd5-c03748d0d288)
+![Screenshot_31-removebg-preview](https://github.com/Nayumt99/santander-bootcamp-ia/assets/68863624/bcfb1a87-fcc9-4052-8d77-cef1a3cddfd9)
 
 
 ## Objetivo:

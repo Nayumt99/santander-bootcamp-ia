@@ -15,14 +15,13 @@ Python 3.x
 5. O script calculará e imprimirá o índice, acurácia e precisão da matriz com o melhor desempenho.
 
 ## Exemplo de Uso
-
+````
 $ python Calculando-metrica.py
-``
 3
 50,10,5,85
 20,5,8,67
 30,12,4,88
-``
+````
 
 Saída:
 ````

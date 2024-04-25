@@ -12,11 +12,11 @@ O programa oferece as seguintes funcionalidades:
 
 ## Uso
 
-Para utilizar o programa, basta executar o script desafio.py. Você será solicitado a inserir um texto que represente uma boa prática de refatoração de código. Em seguida, o programa processará a entrada e fornecerá uma mensagem correspondente à prática de refatoração sugerida.
+Para utilizar o programa, basta executar o script `Refatorando-com-eficiencia.py`. Você será solicitado a inserir um texto que represente uma boa prática de refatoração de código. Em seguida, o programa processará a entrada e fornecerá uma mensagem correspondente à prática de refatoração sugerida.
 
 ## Arquivos no Repositório
 
-desafio.py: Contém o código principal do programa.
-README.md: Este arquivo, fornecendo informações sobre o programa e instruções de uso.
+`Refatorando-com-eficiencia.py`: Contém o código principal do programa.
+`README.md`: Este arquivo, fornecendo informações sobre o programa e instruções de uso.
 
 

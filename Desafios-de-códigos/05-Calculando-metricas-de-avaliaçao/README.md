@@ -30,6 +30,6 @@ Acurácia: 0.9
 Precisão: 0.83
 ````
 
-##Funcionamento do Código
+## Funcionamento do Código
 
 O script define uma função calcular_desempenho que recebe uma lista de matrizes de confusão como entrada e retorna o índice, acurácia e precisão da matriz com o melhor desempenho. Ele compara o desempenho das matrizes com base nas métricas de acurácia e precisão.

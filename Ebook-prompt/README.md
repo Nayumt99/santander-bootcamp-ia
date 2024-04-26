@@ -10,6 +10,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 - [Copilot](https://copilot.microsoft.com/)
 - [LeonardoAI](https://leonardo.ai/)
 
+
 ## 🧠 Prompts
 
 
@@ -38,18 +39,21 @@ LeonardoAI
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | ccreate an image that reflects weak and strong artificial intelligence and its applications
- |
+| título | ccreate an image that reflects weak and strong artificial intelligence and its applications |
+
+
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via MidJourney, Copilot, LeonardoAi
 
+
 ## 📚 Materiais
 
 - Imagens utilizadas em `img`
 - ebook gerado durante as aulas em `Ebook`
+
 
 ## 🛠️ Instruções de execução
 

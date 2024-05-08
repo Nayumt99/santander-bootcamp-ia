@@ -22,3 +22,9 @@ O objetivo deste curso é fornecer aos desenvolvedores uma compreensão sólida 
 . A Teoria Por Trás das IAs;
 
 . Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades.
+
+## 🎓 Certificado
+
+![Certificado Fundamentos de IA para Devs](https://github.com/Nayumt99/santander-bootcamp-ia/assets/68863624/df1a1a29-7015-42f0-a89f-828ddfc4ece5)
+
+
